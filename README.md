@@ -2,7 +2,7 @@
 
 ## 👋 Hello there!
 
-🎓 I'm a **Computer Engineering** student at [Universitá degli Studi di Salerno](https://www.unisa.it/), Italy. 
+🎓 I'm a **Computer Engineering** student at [Università degli Studi di Salerno](https://www.unisa.it/), Italy. 
 
 ## 💻 My skills
 
