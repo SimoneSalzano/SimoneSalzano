@@ -9,8 +9,8 @@
 - **Programming Languages**: C, Java, Swift, Python.
 - **Tools**: Git, Docker, CMake.
 - **DBMS**: PostgreSQL.
-- **Web Development**: HTML, CSS.
+- **Web Development**: HTML, Javascript, CSS, Webpack.
 
 ## 🛠 Currently Learning
-- GNU/Linux and Bash CLI. 
-- JavaScript and other web development tools.
+- React.
+- Node on the backend.
