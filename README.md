@@ -8,10 +8,9 @@
 
 - **Programming Languages**: C, Java, Swift, Python.
 - **Tools**: Git, Docker, CMake.
-- **DBMS**: PostgreSQL.
+- **DBMS**: PostgreSQL, MongoDB.
 - **Web Development**: HTML, Javascript, CSS, Webpack.
 
 ## 🛠 Currently Learning
 - React.
 - Node on the backend.
-- MongoDB
